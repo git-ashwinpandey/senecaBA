@@ -1,2 +1,0 @@
-6 missing values in variable age
-2 out of range values in variable age
